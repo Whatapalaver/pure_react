@@ -6,3 +6,4 @@ Running through all the examples in [Dave Ceddia's Pure React book](https://dave
 - Example 1: [Hello World!](./react-hello)
 - Example 2: [JSX table](./jsx-exercises)
 - Example 3: [Static Tweet](./static-tweet)
+- Example 4: [Tweet component with props](./props-tweet)
