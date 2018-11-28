@@ -1,0 +1,11 @@
+.address {
+  font-family: "Helvetica", arial, sans-serif;
+}
+
+.name,
+.postcode {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-right: 0.3em;
+  color: orange;
+}

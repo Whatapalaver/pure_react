@@ -11,3 +11,4 @@ Running through all the examples in [Dave Ceddia's Pure React book](https://dave
 ![tweet image](./props-tweet/public/tweet.png)
 
 - Example 5: [Tweet component using proptype validation](proptypes-tweet)
+- Example 6: [Assorted components](./address-envelope) such as address, envelope and credit card
